@@ -32,3 +32,12 @@ this is an edited part
 27. I added a picture of the terminal window for the list of students in the files.
 
 29. I added a picture of the terminal window for the finalized list in the files.
+
+31. Q- What are the types of the following values?
+       0 ----> int
+       “hello” ----> string
+       101 ----> int
+       -1 ----> int
+       true ----> boolean
+       “33” ----> string
+       3.1415 ----> int

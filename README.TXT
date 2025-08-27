@@ -25,4 +25,4 @@ this is an edited part
 
 ************ ANSWERS TO QUESTIONS ************
 
-22. Q- Call the getName method on each object. Explain what is happening.     A- 
+22. Q- Call the getName method on each object. Explain what is happening.     A- After calling getName on each object, a popup appears indicating the names of each object.

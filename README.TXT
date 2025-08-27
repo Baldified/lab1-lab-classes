@@ -30,3 +30,5 @@ this is an edited part
 24. Q- Call the numberOfStudents method of that class. What does it do?       A- It makes a method result appears indicating that there are 0 enrolled students.
 
 27. I added a picture of the terminal window for the list of students in the files.
+
+29. I added a picture of the terminal window for the finalized list in the files.

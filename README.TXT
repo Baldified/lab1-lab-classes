@@ -25,6 +25,6 @@ this is an edited part
 
 ************ ANSWERS TO QUESTIONS ************
 
-22. Q- Call the getName method on each object. Explain what is happening.     A- After calling getName on each object, a popup appears indicating the names of each object.
+22. Q- Call the getName method on each object. Explain what is happening.     A- After calling getName on each object, a method result appears indicating the names of each object.
 
-24. Q- Call the numberOfStudents method of that class. What does it do?       A- It makes a popup appear indicating that there are 0 enrolled students.
+24. Q- Call the numberOfStudents method of that class. What does it do?       A- It makes a method result appears indicating that there are 0 enrolled students.

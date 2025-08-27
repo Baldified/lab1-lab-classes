@@ -28,3 +28,5 @@ this is an edited part
 22. Q- Call the getName method on each object. Explain what is happening.     A- After calling getName on each object, a method result appears indicating the names of each object.
 
 24. Q- Call the numberOfStudents method of that class. What does it do?       A- It makes a method result appears indicating that there are 0 enrolled students.
+
+27. I added a picture of the terminal window for the list of students in the files.

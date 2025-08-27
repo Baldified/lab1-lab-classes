@@ -16,3 +16,13 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+
+
+this is an edited part
+
+
+
+************ ANSWERS TO QUESTIONS ************
+
+22. Q- Call the getName method on each object. Explain what is happening.     A- 

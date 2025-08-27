@@ -41,3 +41,5 @@ this is an edited part
        true ----> boolean
        “33” ----> string
        3.1415 ----> int
+
+32. Q- What would you have to do to add a new field, for example one called name, to a circle object?      A- To add a new field to a circle object, you would

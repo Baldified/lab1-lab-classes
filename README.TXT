@@ -45,3 +45,5 @@ this is an edited part
 32. Q- What would you have to do to add a new field, for example one called name, to a circle object?      A- To add a new field to a circle object, you would have add a new private String to the source code.
 
 35. Q- Look at the book you are reading now. Is it an object or a class?       A- It is a class because a book contains things. Basically, a book is like a container containing words and a number of pages further explaining why the book would be the class and the words and number of pages would be the objects.
+
+36. Q- Can an object have several classes?       A- No, it cannot have more than one class because it is the class that holds the objects in its source code.

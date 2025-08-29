@@ -94,4 +94,8 @@ public class LabClass
         
     }
     
+    public int average(int a1)
+    {
+        return a1;
+    }
 }

@@ -88,4 +88,10 @@ public class LabClass
         }
         System.out.println("Number of students: " + numberOfStudents());
     }
+    
+    public void send(String send)
+    {
+        
+    }
+    
 }
